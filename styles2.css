@@ -1,0 +1,50 @@
+.juntas__container {
+	background-color: white;
+	width: 450px;
+	height: auto;
+	display:grid;
+	grid-template-rows: 1fr 70px ;
+	border-left:15px solid #FFE100;
+	box-shadow:2px 2px 15px rgba(0,0,0,0.4);
+}
+.juntas__texto {
+/* 	background-color: lightgrey;	 */
+	padding:2em;
+}
+.juntas__texto > h2 {
+    padding-bottom:1rem;
+}
+.juntas__links {
+	height: auto;
+/* 	background-color: salmon; */
+	display:flex;
+	
+}
+.links__item {
+	flex-grow: 1;
+	background-color: #00A7DF;
+/* 	border:1px solid black; */
+	width: 100px;
+	display:grid;
+	justify-content: center;
+	align-items: center;
+}
+.links__item:nth-child(even) {
+	background-color: #0095A9;
+}
+.link__circulo {
+	background-color: white;
+	width: 50px;
+	height: 50px;
+    border-radius: 50%;
+    display:grid;
+    justify-content: center;
+    align-items: center;
+
+}
+.link__circulo:hover {
+    box-shadow:1px 1px 15px rgba(0,0,0,0.4);
+}
+.fas, .fab {
+    color:black;
+}

@@ -17,6 +17,23 @@ body{
 h2 {
     font-size:1.8rem;
 }
+a {
+    text-decoration: none;
+}
+/* HEADER */
+.header {
+    height:100px;
+    width: 100%;
+    background-color: white;
+    padding:1rem 2rem;
+    display:grid;
+    justify-content: center;
+    align-items: center;
+}
+.title-container {
+
+}
+
 /* MAIN CONTAINER */
 .main-container {
     padding:2rem;
