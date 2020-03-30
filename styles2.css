@@ -1,3 +1,11 @@
+:root {
+	--color_black: #414141;
+	--color_white: #F3F3F3;
+}
+
+body{
+	color: var(--color_black);
+}
 .juntas__container {
 	background-color: white;
 	width: 450px;
