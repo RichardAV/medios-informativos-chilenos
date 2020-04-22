@@ -8,6 +8,26 @@
         "Nombre": "El Mostrador",
         "Descripción": "Diario electrónico",
         "Web": "http://elmostrador.cl"
+    },
+    {
+        "Nombre": "La Tercera",
+        "Descripción": "Diario electrónico",
+        "Web": "https://www.latercera.com/"
+    },
+    {
+        "Nombre": "Emol",
+        "Descripción": "Diario electrónico",
+        "Web": "https://www.emol.com/"
+    },
+    {
+        "Nombre": "Ciper",
+        "Descripción": "Diario electrónico",
+        "Web": "http://ciper.cl"
+    },
+    {
+        "Nombre": "La Segunda",
+        "Descripción": "Diario electrónico",
+        "Web": "https://digital.lasegunda.com/2020/04/20/A"
     }
-
+    
 ]
